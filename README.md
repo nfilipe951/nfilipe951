@@ -1,63 +1,58 @@
 <div align="center">
 
-# 👋 Bem-Vindo ao meu perfil, eu sou Nicolas Filipe
+# Bem-Vindo ao meu perfil, eu sou Nicolas Filipe
 
-### 💻 Desenvolvedor em formação
+### Desenvolvedor em formação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+e+evoluindo" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Olá! Sou **Nicolas Filipe**, estudante de **Desenvolvimento de Sistemas pelo SENAI**.
 
-Estou construindo minha trajetória na área de tecnologia através de estudos e projetos práticos, buscando transformar ideias em soluções através da programação.
+Estou construindo minha trajetória na área de tecnologia através de estudos e projetos práticos, buscando desenvolver minhas habilidades e transformar conhecimento em soluções.
 
-🚀 Atualmente estou focado em evoluir meus conhecimentos e desenvolver projetos cada vez melhores.
-
-💻 **Desenvolvimento de Sistemas**  
-🐍 **Programação**  
-🌐 **Desenvolvimento Web**  
-🧠 **Lógica de Programação**
+Atualmente, meu foco está em programação, desenvolvimento web e lógica de programação.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,git,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Meus Projetos
+## Meus Projetos
 
 <div align="center">
 
-### 📘 1º TERMO
+### 1º TERMO
 
-Primeiros projetos desenvolvidos durante minha formação em **Desenvolvimento de Sistemas**.
+Primeiros projetos desenvolvidos durante minha formação em **Desenvolvimento de Sistemas**, construindo minha base em programação e tecnologia.
 
 [![VER PROJETO](https://img.shields.io/badge/VER%20PROJETO-0B1F3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nfilipe951/1TERMO-)
 
 ---
 
-### 🚀 2º TERMO
+### 2º TERMO
 
-Projetos desenvolvidos durante o segundo termo, colocando em prática os conhecimentos adquiridos ao longo do curso.
+Projetos desenvolvidos durante o segundo termo, colocando em prática os conhecimentos adquiridos ao longo da formação.
 
 [![VER PROJETO](https://img.shields.io/badge/VER%20PROJETO-0B1F3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nfilipe951/2TERMO)
 
 ---
 
-### 🧠 LÓGICA DE PROGRAMAÇÃO
+### LÓGICA DE PROGRAMAÇÃO
 
-Exercícios e projetos desenvolvidos para aprimorar minha capacidade de raciocínio lógico e resolução de problemas através da programação.
+Exercícios e projetos desenvolvidos para aprimorar o raciocínio lógico, a resolução de problemas e os fundamentos da programação.
 
 [![VER PROJETO](https://img.shields.io/badge/VER%20PROJETO-0B1F3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nfilipe951/logica_programacao-)
 
@@ -65,9 +60,9 @@ Exercícios e projetos desenvolvidos para aprimorar minha capacidade de raciocí
 
 ---
 
-## 🎯 Meu objetivo
+## Objetivo
 
-> **Evoluir constantemente, aprender novas tecnologias e transformar conhecimento em projetos.**
+> Evoluir constantemente, aprender novas tecnologias e transformar conhecimento em projetos.
 
 Estou no início da minha jornada na tecnologia e cada projeto representa uma nova oportunidade de aprender, praticar e melhorar.
 
@@ -75,17 +70,12 @@ Estou no início da minha jornada na tecnologia e cada projeto representa uma no
 
 <div align="center">
 
-## 💙 Obrigado pela visita!
-
-<br>
+## Obrigado pela visita
 
 **Nicolas Filipe**
 
-**Desenvolvimento de Sistemas • Tecnologia • Programação**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=nfilipe951&color=0B1F3A&style=for-the-badge&label=VISITAS" />
+Desenvolvimento de Sistemas • Tecnologia • Programação
 
 </div>
+
 
